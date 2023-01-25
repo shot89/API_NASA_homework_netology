@@ -16,7 +16,7 @@ public class ApiNasa {
             @JsonProperty("copyright") String copyright,
             @JsonProperty("date") String date,
             @JsonProperty("explanation") String explanation,
-            @JsonProperty("hdUrl") String hdUrl,
+            @JsonProperty("hdurl") String hdUrl,
             @JsonProperty("media_type") String mediaType,
             @JsonProperty("service_version") String serviceVersion,
             @JsonProperty("title") String title,
